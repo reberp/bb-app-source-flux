@@ -4,9 +4,10 @@ replicaCount: 2
 service:
   type: NodePort
   nodePort: 30005
+  name: block-buster-service
 
 namespace:
-  name: 5-demo
+  name: demo-5
 
 labels:
   app:
