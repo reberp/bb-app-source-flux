@@ -7,7 +7,7 @@ service:
   name: block-buster-service
 
 namespace:
-  name: demo-5
+  name: 5-demo1
 
 labels:
   app:
