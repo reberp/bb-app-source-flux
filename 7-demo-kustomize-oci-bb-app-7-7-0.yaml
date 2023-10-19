@@ -16,6 +16,6 @@ spec:
   prune: true
   sourceRef:
     kind: OCIRepository
-    name: 7-demo-oci-bb-app-7-7-0
+    name: 7-demo-source-oci-bb-app-7-7-0
   targetNamespace: 7-demo
   timeout: 2m0s
